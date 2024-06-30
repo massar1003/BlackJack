@@ -25,4 +25,5 @@ eclipse, Java
 
 
 ＜実行方法＞
+
 javaがインストールされているPCでコマンドプロンプトを開き、「java -jar "BlacJack.jarのパス"」を入力すると実行することができます。
