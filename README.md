@@ -26,4 +26,4 @@ eclipse, Java
 
 ＜実行方法＞
 
-javaがインストールされているPCでコマンドプロンプトを開き、「java -jar "BlacJack.jarのパス"」を入力すると実行することができます。"BlackJack.jar"は"Blackjack"フォルダの中にあります。
+javaがインストールされているPCでコマンドプロンプトを開き、「java -jar "BlacJack.jarのパス"」を入力すると実行することができます。"BlackJack.jar"は"BlackJack"フォルダの中にあります。
